@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background-color: #1b1b1b;
+}
+
+.nav {
+    background-color: #00000068;
+    height: 50px;
+    text-align: center;
+}
+
+.navItem {
+    float: left;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+a {
+    font-family: Theban Alphabet, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #ff7300;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a:hover {
+    color: #ff7300a3;
+    transition: 0.8s;
+}
+
+h3 {
+    padding-left: 270px;
+    font-family: Theban Alphabet, Helvetica, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    float: right;
+}
+
+.color {
+    color: #ff7300a3;
+}
